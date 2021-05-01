@@ -1,0 +1,7 @@
+sklearn==0.0
+sklearn-pandas==1.8.0
+pandas==1.1.5
+nltk==3.2.5
+click==7.1.2
+joblib==1.0.1
+pathlib==1.0.1
